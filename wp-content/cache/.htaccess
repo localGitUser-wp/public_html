@@ -1,0 +1,7 @@
+
+# BEGIN INDEX
+# "BEGIN INDEX" ve "END INDEX" arasındaki yönergeler (satırlar)
+# dinamik olarak oluşturulmuştur ve yalnızca WordPress süzgeçleri ile düzenlenmelidir.
+# Bu imler arasındaki yönergelerde yapılan değişikliklerin üzerine yazılır.
+Options -Indexes
+# END INDEX
